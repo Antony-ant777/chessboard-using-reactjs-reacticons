@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chessboard-using-reactjs-reacticons/static/css/main.a1a122d5.css",
+    "main.js": "/chessboard-using-reactjs-reacticons/static/js/main.ba493ce8.js",
+    "static/js/453.42bd1ccc.chunk.js": "/chessboard-using-reactjs-reacticons/static/js/453.42bd1ccc.chunk.js",
+    "static/media/pexels-felixmittermeier-957312.jpg": "/chessboard-using-reactjs-reacticons/static/media/pexels-felixmittermeier-957312.7b1f4f25b0beaf2226cf.jpg",
+    "index.html": "/chessboard-using-reactjs-reacticons/index.html",
+    "main.a1a122d5.css.map": "/chessboard-using-reactjs-reacticons/static/css/main.a1a122d5.css.map",
+    "main.ba493ce8.js.map": "/chessboard-using-reactjs-reacticons/static/js/main.ba493ce8.js.map",
+    "453.42bd1ccc.chunk.js.map": "/chessboard-using-reactjs-reacticons/static/js/453.42bd1ccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a122d5.css",
+    "static/js/main.ba493ce8.js"
+  ]
+}
