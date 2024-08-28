@@ -1,13 +1,30 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  margin-top:3% ;
+  background-image: url('D:\React\fetch\public\pexels-felixmittermeier-957312.jpg');
+  background-size: cover;
+}
+.tot{
+  border: 3px solid rgb(0, 0, 0);
+  margin:0px 450px ;
+}
+.black{
+  background-color: rgba(50, 55, 57, 0.903);
+  height: 80px;
+  width: 80px;
+}
+.white{
+  background-color:rgba(226, 232, 232, 0.889) ;
+  height: 80px;
+  width: 80px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.one,.two{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon{
+  height: 60%;
+  width: 60%;
+  padding: 20%;
 }
